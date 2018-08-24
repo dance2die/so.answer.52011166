@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.menu {
+  list-style: none;
+}
+
+.dropdown {
+  text-align: left;
+}
+
+.hovering {
+  background-color: gold;
+}
